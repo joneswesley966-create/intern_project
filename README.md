@@ -274,11 +274,11 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ## 👤 Author
 
-**Bhavani Nalajala**  
+**Jones Wesley**  
 Data Science & Analytics Intern — Zidio Development (2026)
 
-- 🌐 [LinkedIn](https://linkedin.com/in/your-linkedin-username)
-- 🐙 [GitHub](https://github.com/your-github-username)
+- 🌐 [LinkedIn]([https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/jones-wesley-706a57399))
+- 🐙 [GitHub]([https://github.com/your-github-username](https://github.com/joneswesley966-create))
 
 ---
 
